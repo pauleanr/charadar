@@ -22,7 +22,7 @@ Then create a div and initialize the script:
 
 	<style>
 	$('#skillchart').charadar({
-		skill: [
+		skills: [
 			[3, 'aaa'],
 			[5, 'bbb'],
 			[10, 'ccc'],
