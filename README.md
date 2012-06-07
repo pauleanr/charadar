@@ -16,7 +16,7 @@ Make sure you add the library to your `head`
 		<script type="text/javascript" src="jquery.charadar.js"></script>
 	</head>
 
-The default axis amount was 10 and distance between two axis was 10px, so creat a div and initialize the script:
+Then create a div and initialize the script:
 
 	<div id="skillChart"></div>
 
@@ -32,12 +32,12 @@ The default axis amount was 10 and distance between two axis was 10px, so creat 
 	</style>
 
 It can work!
-The polygon's angle amount is equal to the skill amount you set.
+The polygon's vertex amount is equal to the skill amount you set.
 
 Available Options
 -----------------
 
-*	**title**  the chart title, can be set string type value
+*	**title**  the chart title, should be set string type value
 *	**axis**  the amount of axis
 *	**axisPixel**  the distance between two axis
 *	**shiftAngle**  set this to rotate the polygon 
