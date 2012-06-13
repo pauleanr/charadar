@@ -4,7 +4,8 @@ charadar
 Charadar is a simple radar chart and easy to use.
 It's depend on [jqeury svg plugin](http://keith-wood.name/svg.html)
 so if you want to use this plugin, you should download jquery svg and put it in your web.
-![alt text](https://github.com/pauleanr/charadar/blob/master/demo.png)
+
+![alt text](https://github.com/pauleanr/charadar/raw/master/demo.png)
 
 Usage
 -----
