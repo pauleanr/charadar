@@ -4,6 +4,7 @@ charadar
 Charadar is a simple radar chart and easy to use.
 It's depend on [jqeury svg plugin](http://keith-wood.name/svg.html)
 so if you want to use this plugin, you should download jquery svg and put it in your web.
+![alt text](https://github.com/pauleanr/charadar/blob/master/demo.png)
 
 Usage
 -----
@@ -41,7 +42,7 @@ Available Options
 *	**axis**  the amount of axis
 *	**axisPixel**  the distance between two axis
 *	**shiftAngle**  set this to rotate the polygon 
-*	**containerPadding**  the padding outside of the chart, set array type value [top, right, bottom, left],  like [0, 50, 0, 0]
+*	**containerPadding**  the outside padding of the chart, set array type value [top, right, bottom, left],  like [0, 50, 0, 0]
 *	**skillNameShift**  the shift between polygon vertex and skill name
 *	**polyStyle**  the polygon style, set like {file: 'color or none', strock: 'color or none', strockWidth: 1}
 *	**skillLineStyle**  the skill polygon line style, set like {strock: 'color or none', strockWidth: 1}
